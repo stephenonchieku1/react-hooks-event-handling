@@ -27,5 +27,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenonchieku1/react-hooks-event-handling.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephenonchieku1/react-hooks-event-handling/issues"
+  },
+  "homepage": "https://github.com/stephenonchieku1/react-hooks-event-handling#readme"
 }
